@@ -13,7 +13,7 @@
         "php": "^8.0",
         "laravel/framework": "^8.0|^9.0|^10.0",
         "laravel/nova": "^4.0",
-        "spatie/laravel-medialibrary": "^10.5"
+        "spatie/laravel-medialibrary": "^11"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.11",
